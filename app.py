@@ -18,7 +18,7 @@ Constants
 """
 MODEL_URI = 'http://localhost:8502/v1/models/pets:predict'
 
-model = load_model("/pets")
+model = load_model("/app/pets")
 OUTPUT_DIR = 'static'
 CLASSES = ['Cat', 'Dog']
 SIZE = 128
