@@ -14,7 +14,7 @@ Requirements.txt included for deployment to cloud services (Microsoft Azure/Goog
 #### Example site: https://catsdogs1.azurewebsites.net/ (May need to refresh a few times for the site to load, as it uses free Azure instances)
 
 ### Cat Image
-![Cat](static/cat3.jpeg?raw=true "Cat Image")
+![Cat](static/cat3.jpg?raw=true "Cat Image")
 
 ### Cat Image Prediction
 ![Cat Prediction](static/1.png?raw=true "Cat Image Prediction")
